@@ -1,6 +1,3 @@
-# bobmorane1.github.io
-
-
 #Veranstaltungskonzept
 #School’s Out Party 2026
 
