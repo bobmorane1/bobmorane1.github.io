@@ -1,9 +1,3 @@
----
-title: "School’s Out Party 2026"
-description: "Offizielle Informationsseite zur School’s Out Party am 17.07.2026 in der Alten Schule Eichhof."
-layout: default
----
-
 # 🎉 School’s Out Party 2026  
 **Alte Schule Eichhof e.V. & Jugendzentrum K51 Kürten**
 
