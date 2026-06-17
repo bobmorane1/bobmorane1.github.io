@@ -1,5 +1,5 @@
-#Veranstaltungskonzept
-#School’s Out Party 2026
+# Veranstaltungskonzept
+# School’s Out Party 2026
 
 1. Veranstaltung
 Veranstaltung: School's Out Party
